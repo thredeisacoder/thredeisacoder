@@ -1,7 +1,11 @@
 # 💫About Me :
-🔭 I'm passionate about Information Security
-🥅 Favorite Quote: Never Too Late to Pursue Your Dreams
-⚡ Fun fact: I'm noob!
+- 🔭 I'm passionate about Information Security
+
+- 🥅 Favorite Quote: Never Too Late to Pursue Your Dreams
+
+- 🌱 I’m currently learning **hack**
+
+- ⚡ Fun fact **I think i am funny**
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Threde-Darton&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)<br/>
