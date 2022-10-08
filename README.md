@@ -1,4 +1,4 @@
-### Hi, I'm Quan Nguyen - aka [CodeXplore][website] = Software Engineer 🌱 
+### Hi, I'm An Pham - [Threde][website] = Software Engineer 🌱 
 
 
 - 🔭 I'm passionate about Information Security
@@ -36,7 +36,7 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+<!-- ### 📺 Latest YouTube Videos -->
 
 <!-- YOUTUBE:START -->
 
