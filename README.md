@@ -3,9 +3,6 @@
 🥅 Favorite Quote: Never Too Late to Pursue Your Dreams
 ⚡ Fun fact: I'm noob!
 
-## 🌐Socials
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/channel/UC2cAQYn8AD32xaurncJhyPw) 
-
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Threde-Darton&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Threde-Darton&theme=blue-green&hide_border=true)<br/>
@@ -16,6 +13,9 @@
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+## 🌐Socials
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/channel/UC2cAQYn8AD32xaurncJhyPw) 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Threde-Darton&icon=2&color=3)](https://visitcount.itsvg.in)
