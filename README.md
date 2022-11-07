@@ -7,6 +7,8 @@
 
 - ⚡ Fun fact **I think i am funny**
 
+<a href="https://app.daily.dev/threde"><img src="https://api.daily.dev/devcards/08e7f282512c4f17baf23316bb60f738.png?r=j0c" width="400" alt="Threde's Dev Card"/></a>
+
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Threde-Darton&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Threde-Darton&theme=blue-green&hide_border=true)<br/>
