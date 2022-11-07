@@ -1,11 +1,11 @@
 # 💫About Me :
 <a href="https://app.daily.dev/Threde"><img src="https://api.daily.dev/devcards/08e7f282512c4f17baf23316bb60f738.png?r=lu5" width="400" alt="Threde's Dev Card"/></a>
 
-- 🔭 I'm passionate about Information Security
+- 🔭 I'm passionate about IT and InfoSec
 
 - 🥅 Favorite Quote: Never Too Late to Pursue Your Dreams
 
-- 🌱 I’m currently learning **hack**
+- 🌱 I’m currently learning **code**
 
 - ⚡ Fun fact **I think i am funny**
 
