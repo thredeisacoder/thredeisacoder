@@ -10,7 +10,7 @@
 
 # 📊GitHub Stats :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thredeisacoder&show_icons=true&theme=blue-green)</br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=thredeisacoder&theme=blue-green&hide_border=true)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=thredeisacoder)](https://git.io/streak-stats)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thredeisacoder&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # 💻Tech Stack :
