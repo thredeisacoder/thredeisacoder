@@ -9,7 +9,7 @@
 - ⚡ Fun fact **I think i am funny**
 
 # 📊GitHub Stats :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thredeisacoder&show_icons=true&theme=blue-green)</br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thredeisacoder&show_icons=true&theme=transparent)</br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=thredeisacoder&theme=blue-green)](https://git.io/streak-stats)<br/>
 
 # 💻Tech Stack :
