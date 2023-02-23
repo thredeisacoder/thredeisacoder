@@ -1,12 +1,12 @@
 # 💫About Me :
 <a href="https://app.daily.dev/Threde"><img src="https://api.daily.dev/devcards/08e7f282512c4f17baf23316bb60f738.png?r=fs8" width="400" alt="Threde's Dev Card"/></a>
-- 🔭 I'm passionate about IT and InfoSec
+- 🔭 I'm passionate about **AI**.
 
-- 🥅 Favorite Quote: Never Too Late to Pursue Your Dreams
+- 🥅 Favorite Quote: Never Too Late to Pursue Your Dreams.
 
-- 🌱 I’m currently learning **code**
+- 🌱 I’m currently learning **code**.
 
-- ⚡ Fun fact **I think i am funny**
+- ⚡ Fun fact **I think i am funny**.
 
 # 📊GitHub Stats :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thredeisacoder&show_icons=true&theme=chartreuse-dark)</br>
