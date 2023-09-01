@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **code**.
 
-- ⚡ Fun fact **I think i am funny**.
+- ⚡ Contact me: **anphmvn75@gmail.com**.
 
 # 📊GitHub Stats :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=thredeisacoder&theme=chartreuse-dark)](https://git.io/streak-stats)<br/>
