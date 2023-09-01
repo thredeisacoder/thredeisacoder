@@ -8,9 +8,11 @@
 - ⚡ Contact me: **anphmvn75@gmail.com**.
 
 # 📊GitHub Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=thredeisacoder&theme=chartreuse-dark)](https://git.io/streak-stats)<br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thredeisacoder&show_icons=true&theme=chartreuse-dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thredeisacoder&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)</br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thredeisacoder&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thredeisacoder&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=thredeisacoder&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 
 # 💻Tech Stack :
