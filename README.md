@@ -8,9 +8,9 @@
 - ⚡ Fun fact **I think i am funny**.
 
 # 📊GitHub Stats :
+[![GitHub Streak](https://streak-stats.demolab.com/?user=thredeisacoder&theme=chartreuse-dark)](https://git.io/streak-stats)<br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thredeisacoder&show_icons=true&theme=chartreuse-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thredeisacoder&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)</br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=thredeisacoder&theme=chartreuse-dark)](https://git.io/streak-stats)<br/>
 
 
 # 💻Tech Stack :
