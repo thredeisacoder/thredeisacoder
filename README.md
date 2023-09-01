@@ -33,9 +33,9 @@
 </div>
 
 # 🌐 Socials:
-<a href="https://www.linkedin.com/in/an-ph%E1%BA%A1m-333a201aa/" target="_blank">
+<a href="https://www.linkedin.com/in/threde/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
 </a>
-<a href="https://www.facebook.com/Op.New.Blood/" target="_blank">
+<a href="https://www.facebook.com/threde/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
 </a>
