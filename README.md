@@ -5,7 +5,6 @@
 </p>
 
 ## 💫 About Me:
-
 - 🔐 I’m a passionate **Cybersecurity** enthusiast constantly learning and exploring new techniques.
 - 🎯 My favorite quote: "**It's never too late to pursue your dreams.**"
 - 🌱 Currently diving deeper into **ethical hacking** and **cyber defense strategies**.
