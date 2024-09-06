@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Threde 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F7F7F7&width=435&lines=Cybersecurity+Enthusiast;Passionate+Coder;Exploring+the+World+of+H4CK" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F7F7F7&width=700&lines=Cybersecurity+Enthusiast;Passionate+Coder;Exploring+the+World+of+H4CK" alt="Typing SVG" />
 </p>
 
 ## 💫 About Me:
