@@ -1,4 +1,18 @@
-<h1 align="center">Hi there, I'm Threde 👋</h1>
+<h1 align="center">
+  <span class="blinking-text">Hi there, I'm Threde 👋</span>
+</h1>
+
+<style>
+  @keyframes blink {
+    0% { opacity: 1; }
+    50% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+
+  .blinking-text {
+    animation: blink 1.5s infinite;
+  }
+</style>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Exploring+the+world+of+h4ck" alt="Typing SVG" />
