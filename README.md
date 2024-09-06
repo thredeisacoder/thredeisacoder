@@ -1,8 +1,9 @@
 <h1 align="center">Hi there, I'm Threde 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F7F7F7&width=700&lines=Exploring+the+world+of+h4ck" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Exploring+the+world+of+h4ck" alt="Typing SVG" />
 </p>
+
 
 ## 💫 About Me:
 - 🔐 I’m a passionate **Cybersecurity** enthusiast constantly learning and exploring new techniques.
