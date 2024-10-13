@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Exploring+the+world+of+h4ck" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Exploring+the+world+of+h4ck..." alt="Typing SVG" />
 </p>
 
 <img width="28%" align='right' src="https://github.com/user-attachments/assets/466fee29-c3cf-4aa3-8807-6d0daaa4e6cf">
@@ -25,7 +25,7 @@
 ## 💻Tech Stack :
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,php,java,js,sqlite,git,docker,kali,linux" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,php,java,js,sqlite,mysql,git,docker,kali,linux" />
   </a>
 </p>
 
